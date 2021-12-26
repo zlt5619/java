@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding='utf-8'?>
+
+<students>
+    <student>
+        <id>1</id>
+        <name>zzz</name>
+        <age>5</age>
+    </student>
+    <student>
+        <id>2</id>
+        <name>ddd</name>
+        <age>6</age>
+    </student>
+
+    <student>
+        <id><![CDATA[if(a){}]]>
+        </id>
+        <name>zzz</name>
+        <age>5</age>
+    </student>
+</students>
