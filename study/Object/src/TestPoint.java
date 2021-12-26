@@ -6,21 +6,21 @@
  */
 
 public class TestPoint {
-    double x,y;
+    double x, y;
 
-    TestPoint(double _x,double _y){
-        x=_x;
-        y=_y;
+    TestPoint(double _x, double _y) {
+        x = _x;
+        y = _y;
     }
 
-    public double getDistance(TestPoint p){
-        double d=Math.sqrt((x-p.x)*(x-p.x)+(y-p.y)*(y-p.y));
+    public double getDistance(TestPoint p) {
+        double d = Math.sqrt((x - p.x) * (x - p.x) + (y - p.y) * (y - p.y));
         return d;
     }
 
     public static void main(String[] args) {
-        TestPoint p1=new TestPoint(3.0,4.0);
-        TestPoint origin_p=new TestPoint(0,0);
+        TestPoint p1 = new TestPoint(3.0, 4.0);
+        TestPoint origin_p = new TestPoint(0, 0);
         System.out.println(p1.getDistance(origin_p));
     }
 }

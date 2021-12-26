@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="commons-dbcp2-2.5.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../java学习资料/03、数据库编程和设计/05、JDBC技术/软件/相关jar/commons-dbcp2-2.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../java学习资料/03、数据库编程和设计/05、JDBC技术/软件/相关jar/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../java学习资料/03、数据库编程和设计/05、JDBC技术/软件/相关jar/commons-pool2-2.6.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

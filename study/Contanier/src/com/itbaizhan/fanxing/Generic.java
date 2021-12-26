@@ -1,6 +1,6 @@
 package com.itbaizhan.fanxing;
 
-public class Generic <T>{
+public class Generic<T> {
     private T flag;
 
     public T getFlag() {

@@ -2,7 +2,7 @@ package com.itbaizhan.fengzhuang;
 
 public class TestFengzhaung01 {
     public static void main(String[] args) {
-        User u=new User();
+        User u = new User();
         u.setId(10);
         u.setName("zlt");
         u.isMan(true);
@@ -10,13 +10,14 @@ public class TestFengzhaung01 {
 
     }
 }
+
 //Javabean
-class User{
+class User {
     private int id;
     private String name;
     private boolean man;
 
-    public void printUserInfo(){
+    public void printUserInfo() {
         System.out.println(id);
         System.out.println(name);
         System.out.println(man);

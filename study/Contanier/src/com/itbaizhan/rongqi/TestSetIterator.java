@@ -6,7 +6,7 @@ import java.util.Set;
 
 public class TestSetIterator {
     public static void main(String[] args) {
-        Set<String> set=new HashSet<>();
+        Set<String> set = new HashSet<>();
         set.add("a");
         set.add("b");
         set.add("c");
@@ -15,10 +15,10 @@ public class TestSetIterator {
 
         //获取迭代器对象
         Iterator<String> iterator = set.iterator();
-        while (iterator.hasNext()){
+        while (iterator.hasNext()) {
             System.out.println(iterator.next());
         }
-        for(Iterator<String> it = set.iterator();it.hasNext();){
+        for (Iterator<String> it = set.iterator(); it.hasNext(); ) {
             String value = it.next();
             System.out.println(value);
         }

@@ -8,7 +8,7 @@ public class Person {
     }
 
     public void setAge(int age) throws IllegalAgeException {
-        if(age<0){
+        if (age < 0) {
             throw new IllegalAgeException("人的年龄不应为负数");
         }
         this.age = age;

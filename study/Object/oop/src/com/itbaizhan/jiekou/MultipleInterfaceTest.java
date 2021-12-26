@@ -2,24 +2,26 @@ package com.itbaizhan.jiekou;
 
 public class MultipleInterfaceTest {
     public static void main(String[] args) {
-        CImp c=new CImp();
+        CImp c = new CImp();
         c.testA();
         c.testB();
         c.testC();
     }
 }
 
-interface A{
+interface A {
     void testA();
 }
 
-interface B{
+interface B {
     void testB();
 }
-interface C extends A,B{
+
+interface C extends A, B {
     void testC();
 }
-class CImp implements C{
+
+class CImp implements C {
 
     @Override
     public void testA() {

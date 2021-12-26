@@ -5,11 +5,13 @@ public class TestDigui {
     public static void main(String[] args) {
         aa();
     }
-    public static void aa(){
+
+    public static void aa() {
         System.out.println("aa");
         bb();
     }
-    public static void bb(){
+
+    public static void bb() {
         System.out.println("bb");
         aa();
     }

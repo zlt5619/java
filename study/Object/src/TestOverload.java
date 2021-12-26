@@ -3,14 +3,16 @@ public class TestOverload {
     String name;
     String password;
 
-    TestOverload(){
+    TestOverload() {
 
     }
-    TestOverload(int id){
-        this.id=id;
+
+    TestOverload(int id) {
+        this.id = id;
     }
-    TestOverload(int id,String s1){
-        this.id=id;
-        this.name=s1;
+
+    TestOverload(int id, String s1) {
+        this.id = id;
+        this.name = s1;
     }
 }

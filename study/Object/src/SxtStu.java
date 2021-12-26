@@ -6,7 +6,7 @@ public class SxtStu {
     int age;
     String sname;
 
-    public void study(){
+    public void study() {
         System.out.println("学习中");
     }
 
@@ -15,11 +15,11 @@ public class SxtStu {
     }
 
     //构造方法
-    SxtStu(){
+    SxtStu() {
 
     }
 
     public static void main(String[] args) {
-        SxtStu s1=new SxtStu();
+        SxtStu s1 = new SxtStu();
     }
 }

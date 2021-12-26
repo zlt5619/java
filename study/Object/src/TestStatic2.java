@@ -1,9 +1,10 @@
 public class TestStatic2 {
-    static String company="QQ";
-    static{
+    static String company = "QQ";
+
+    static {
 
         System.out.println("执行静态初始化工作");
-        company="sxt";
+        company = "sxt";
         System.out.println(company);
     }
 

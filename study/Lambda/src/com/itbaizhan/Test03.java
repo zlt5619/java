@@ -2,7 +2,7 @@ package com.itbaizhan;
 
 public class Test03 {
     public static void main(String[] args) {
-        final int num=10;
+        final int num = 10;
 
 //        NoReturnNoParam noReturnNoParam=new NoReturnNoParam(){
 //
@@ -12,7 +12,7 @@ public class Test03 {
 //            }
 //        };
         //新的写法，调用闭包
-        NoReturnNoParam noReturnNoParam=()->System.out.println(num);
+        NoReturnNoParam noReturnNoParam = () -> System.out.println(num);
         noReturnNoParam.method();
     }
 }

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="druid-1.0.19">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../java学习资料/03、数据库编程和设计/05、JDBC技术/软件/相关jar/druid-1.0.19.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

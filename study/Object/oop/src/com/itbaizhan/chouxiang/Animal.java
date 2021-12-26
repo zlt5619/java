@@ -8,7 +8,7 @@ public abstract class Animal {
     public abstract void run();
 }
 
-class Dog extends Animal{
+class Dog extends Animal {
     @Override
     public void rest() {
         System.out.println("dog rest");

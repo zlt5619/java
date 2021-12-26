@@ -1,14 +1,16 @@
 package com.itbaizhan.jiekou;
 
 public interface volant {
-    int Fly_Hight=100;
+    int Fly_Hight = 100;
+
     void fly();
 }
-interface Honest{
+
+interface Honest {
     void HelpOther();
 }
 
-class GoodMan implements Honest{
+class GoodMan implements Honest {
 
     @Override
     public void HelpOther() {
@@ -16,7 +18,7 @@ class GoodMan implements Honest{
     }
 }
 
-class Angel implements Honest,volant{
+class Angel implements Honest, volant {
 
     @Override
     public void fly() {

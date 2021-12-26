@@ -1,0 +1,22 @@
+<c3p0-config>
+    <!-- 默认的数据库连接池-->
+    <default-config>
+        <!-- 数据库基本配置-->
+        <property name="driverClass">com.mysql.cj.jdbc.Driver</property>
+        <property name="jdbcUrl">jdbc:mysql://localhost:3306/baizhan</property>
+        <property name="user">root</property>
+        <property name="password">123456</property>
+        <!-- 数据库连接池配置--> <!-- 当数据库连接池中的连接不够时，c3p0一次性向数据库申请的连接数-->
+        <property name="acquireIncrement">5</property>
+        <!-- 数据库连接池中初始化的连接数量-->
+        <property name="initialPoolSize">10</property>
+        <!-- 数据库连接池中最少的连接数量-->
+        <property name="minPoolSize">10</property>
+        <!-- 数据库连接池中最多的连接数量-->
+        <property name="maxPoolSize">100</property>
+        <!-- 数据库连接池中最多存在的Statement数量-->
+        <property name="maxStatements">200</property>
+        <!-- 每个连接最多可以使用的Statement数量-->
+        <property name="maxStatementsPerConnection">2</property>
+    </default-config>
+</c3p0-config>

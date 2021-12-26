@@ -11,9 +11,9 @@ import java.util.Arrays;
 
 public class TestMaoPaoSuanFa {
     public static void main(String[] args) {
-        int[] a=new int[10];
-        for(int i=0;i<a.length;i++){
-            a[i]=(int) (10*Math.random());
+        int[] a = new int[10];
+        for (int i = 0; i < a.length; i++) {
+            a[i] = (int) (10 * Math.random());
         }
         System.out.println(Arrays.toString(a));
 //        bubbleSort(a);
@@ -24,22 +24,22 @@ public class TestMaoPaoSuanFa {
     }
 
     private static void bubbleSort2(int[] a) {
-        int temp=0;
+        int temp = 0;
 
-        for(int i=0;i<a.length;i++){
-            boolean flag=true;
-            for(int j=0;j<a.length-1-i;j++){
-                if(a[j]>a[j+1]){
-                    temp=a[j];
-                    a[j]=a[j+1];
-                    a[j+1]=temp;
+        for (int i = 0; i < a.length; i++) {
+            boolean flag = true;
+            for (int j = 0; j < a.length - 1 - i; j++) {
+                if (a[j] > a[j + 1]) {
+                    temp = a[j];
+                    a[j] = a[j + 1];
+                    a[j + 1] = temp;
 
-                    flag=false;
+                    flag = false;
                 }
             }
             //如果状态未发生改变，就可以结束了
-            if(flag){
-                System.out.println("第"+i+"次终结");
+            if (flag) {
+                System.out.println("第" + i + "次终结");
                 break;
 
             }
@@ -47,14 +47,14 @@ public class TestMaoPaoSuanFa {
         }
     }
 
-    public static void bubbleSort(int[] a){
-        int temp=0;
-        for(int i=0;i<a.length;i++){
-            for(int j=0;j<a.length-1-i;j++){
-                if(a[j]>a[j+1]){
-                    temp=a[j];
-                    a[j]=a[j+1];
-                    a[j+1]=temp;
+    public static void bubbleSort(int[] a) {
+        int temp = 0;
+        for (int i = 0; i < a.length; i++) {
+            for (int j = 0; j < a.length - 1 - i; j++) {
+                if (a[j] > a[j + 1]) {
+                    temp = a[j];
+                    a[j] = a[j + 1];
+                    a[j + 1] = temp;
                 }
             }
         }

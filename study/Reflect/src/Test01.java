@@ -5,13 +5,14 @@
 
 public class Test01 {
     public static void main(String[] args) {
-        User u=new User();
-        Class clazz=u.getClass();
+        User u = new User();
+        Class clazz = u.getClass();
         System.out.println(clazz);
         System.out.println(clazz.getName());
     }
 }
-class User{
+
+class User {
     private String name;
     private int age;
     public String username;
@@ -41,5 +42,7 @@ class User{
         this.age = age;
     }
 
-    private void suibian(){ System.out.println("Hello Oldlu"); }
+    private void suibian() {
+        System.out.println("Hello Oldlu");
+    }
 }

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="c3p0-0.9.5.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../java学习资料/03、数据库编程和设计/05、JDBC技术/软件/相关jar/c3p0-0.9.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../java学习资料/03、数据库编程和设计/05、JDBC技术/软件/相关jar/mchange-commons-java-0.2.12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

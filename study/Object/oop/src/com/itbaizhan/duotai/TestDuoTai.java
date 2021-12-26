@@ -1,7 +1,7 @@
 package com.itbaizhan.duotai;
 
 public class TestDuoTai {
-    static void f(Person p){
+    static void f(Person p) {
 
         p.eat();
     }
@@ -13,29 +13,31 @@ public class TestDuoTai {
     }
 }
 
-class Person{
+class Person {
     String name;
 
-    public void eat(){
+    public void eat() {
         System.out.println("eat");
     }
 }
 
-class Chinese extends Person{
+class Chinese extends Person {
     @Override
-    public void eat(){
+    public void eat() {
         System.out.println("chopstick");
     }
 }
-class Amercian extends Person{
+
+class Amercian extends Person {
     @Override
-    public void eat(){
+    public void eat() {
         System.out.println("fork");
     }
 }
-class Indian extends Person{
+
+class Indian extends Person {
     @Override
-    public void eat(){
+    public void eat() {
         System.out.println("hand");
     }
 }

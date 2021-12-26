@@ -4,17 +4,18 @@ import java.util.Arrays;
 
 public class TestJavaBean {
     public static void main(String[] args) {
-        Emp[] emps={
-                new Emp(1001,"zlt",18,"teacher","2-14"),
-                new Emp(1002,"zlr",20,"teacher","3-9"),
-                new Emp(1001,"zly",22,"teacher","2-5")
+        Emp[] emps = {
+                new Emp(1001, "zlt", 18, "teacher", "2-14"),
+                new Emp(1002, "zlr", 20, "teacher", "3-9"),
+                new Emp(1001, "zly", 22, "teacher", "2-5")
 
         };
         System.out.println(Arrays.toString(emps));
     }
 
 }
-class Emp{
+
+class Emp {
     private int id;
     private String name;
     private int age;

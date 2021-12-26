@@ -8,11 +8,11 @@ public class Person {
     private String telNum;
     private String address;
 
-    public Person(){
+    public Person() {
 
     }
 
-    public Person( String name, String age, String sex, String telNum, String address) {
+    public Person(String name, String age, String sex, String telNum, String address) {
         this.name = name;
         this.age = age;
         this.sex = sex;
@@ -70,7 +70,7 @@ public class Person {
 
     @Override
     public String toString() {
-        StringBuffer sb=new StringBuffer();
+        StringBuffer sb = new StringBuffer();
         sb.append("序号:").append(this.id).append("#").append("\t");
         sb.append("姓名:").append(this.name).append("\t\t");
         sb.append("年龄:").append(this.age).append("\t\t");

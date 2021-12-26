@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>picture</title>
+</head>
+<body>
+<figure>
+    <img src="img/1.jpg"/>
+    <figcaption>IT程序员</figcaption>
+</figure>
+<!--展示文章的细节 mark：着重突出的内容-->
+<details>
+    <summary>请选择</summary>
+    <p>中国1</p>
+    <p>
+        <mark>中国2</mark>
+    </p>
+    <p>中国3</p>
+    <p>中国4</p>
+</details>
+<!--刻度标签max:规定的最大值 min:规定最小值 value：当前的值 low：自己定义的最小值high：自己定义的最大值 -->
+<meter max="100" min="0" value="10" low="20" high="80"></meter>
+<!--进度条-->
+<progress max="100" value="40"></progress>
+<input type="text" list="city"/>
+<datalist id="city">
+    <option value="IBM">IBM</option>
+    <option value="IBM1">IBM1</option>
+    <option value="IBM2">IBM2</option>
+    <option value="IBM3">IBM3</option>
+</datalist>
+<!--画布标签-->
+<canvas id="mycat"></canvas>
+
+</body>
+<script>
+    var ca = document.getElementById("mycat");
+    var te = ca.getContext("2d");
+<!--//背景颜色 -->
+    te.fillStyle = "#FF0000";
+<!-- //绘制图形的大小-->
+    te.fillRect(0, 0, 80, 100);
+</script>
+</html>

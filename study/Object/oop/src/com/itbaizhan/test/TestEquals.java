@@ -15,12 +15,12 @@ public class TestEquals {
 
 
     public static void main(String[] args) {
-        TestEquals t1=new TestEquals();
-        TestEquals t2=new TestEquals();
-        t1.id=1;
-        t2.id=1;
+        TestEquals t1 = new TestEquals();
+        TestEquals t2 = new TestEquals();
+        t1.id = 1;
+        t2.id = 1;
         System.out.println(t1.equals(t2));
-        System.out.println(t1==t2);
+        System.out.println(t1 == t2);
     }
 
 }

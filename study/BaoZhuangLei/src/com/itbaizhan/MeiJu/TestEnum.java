@@ -7,10 +7,10 @@ public class TestEnum {
         System.out.println(Season.SPRING);
         System.out.println(Week.星期一);
         //循环打印
-        for(Season s:Season.values()){
+        for (Season s : Season.values()) {
             System.out.println(s);
         }
-        int a=new Random().nextInt(4);
+        int a = new Random().nextInt(4);
         switch (Season.values()[a]) {
             case SPRING:
                 System.out.println("春天");
@@ -23,15 +23,21 @@ public class TestEnum {
                 break;
             case WINTER:
                 System.out.println("冬天");
-                break; }
+                break;
+        }
     }
 }
 
-/**季节*/
+/**
+ * 季节
+ */
 enum Season {
     SPRING, SUMMER, AUTUMN, WINTER
 }
-/**星期*/
+
+/**
+ * 星期
+ */
 enum Week {
     星期一, 星期二, 星期三, 星期四, 星期五, 星期六, 星期日
 }

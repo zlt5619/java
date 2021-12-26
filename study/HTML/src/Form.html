@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Form Test</title>
+</head>
+<body>
+<form action="a.html" method="get">
+    账号： <input type="text" name="zh" value="123"/>
+    <input type="submit" name="pwd" value="submit"/>
+
+</form>
+
+
+<!--普通文本框 value：文本框中值-->
+aaa： <input type="text" name="zh" value="123"/>
+bbb：<input type="password" name="pwd" value="123"/>
+<br/>
+<!--单选框 实现单选的效果必须指定同一个name属性 checked：默认的选择-->
+男：<input type="radio" name="sex" value="1" checked="checked"/>
+女：<input type="radio" name="sex" value="0"/>
+<br/>
+<!--多选框-->
+抽烟:<input type="checkbox" value="1" checked="checked">
+喝酒:<input type="checkbox"/>
+烫头:<input type="checkbox"/>
+<br/>
+<!--多行文本框-->
+个人介绍： <textarea rows="15" cols="20" value="">你 好</textarea>
+<br/>
+<!--文件选择框-->
+<input type="file" name="file"/>
+<br/>
+<!--隐藏框-->
+<input type="hidden" name="sno" value="20180607"/>
+<!--下拉框-->
+<select>
+    <option>a</option>
+    <option selected="selected">b</option>
+    <option>c</option>
+</select>
+</body>
+</html>
