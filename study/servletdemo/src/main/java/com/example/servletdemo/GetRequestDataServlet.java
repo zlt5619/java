@@ -12,11 +12,12 @@ public class GetRequestDataServlet extends HttpServlet {
 
     @Override
     protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-        req.setCharacterEncoding("utf-8");
+//        req.setCharacterEncoding("utf-8");
         String username=req.getParameter("username");
         String[] userlike=req.getParameterValues("userlike");
         Enumeration<String> parameterNames = req.getParameterNames();
         Map<String,String[]> map= (Map<String, String[]>) req.getParameterMap();
+        resp.setContentType("text/html;charset=utf-8");
         List<String> keys=new ArrayList<>();
         PrintWriter out = resp.getWriter();
         out.println("<html><body>");
