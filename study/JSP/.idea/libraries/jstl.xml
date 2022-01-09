@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jstl">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../java学习资料/05、JAVAEE 和项目开发/04、JSP技术详解/软件/jakarta-taglibs-standard-1.1.2/lib/jstl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../java学习资料/05、JAVAEE 和项目开发/04、JSP技术详解/软件/jakarta-taglibs-standard-1.1.2/lib/standard.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

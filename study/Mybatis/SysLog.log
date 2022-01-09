@@ -1,0 +1,26 @@
+<2022-01-08 22:36:50,912> DEBUG (LogFactory.java:105) [main] org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+<2022-01-08 22:36:50,927> DEBUG (PooledDataSource.java:363) [main] org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+<2022-01-08 22:36:50,927> DEBUG (PooledDataSource.java:363) [main] org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+<2022-01-08 22:36:50,927> DEBUG (PooledDataSource.java:363) [main] org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+<2022-01-08 22:36:50,950> DEBUG (PooledDataSource.java:363) [main] org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+<2022-01-08 22:36:51,028> DEBUG (JdbcTransaction.java:137) [main] org.apache.ibatis.transaction.jdbc.JdbcTransaction - Opening JDBC Connection
+<2022-01-08 22:36:51,927> DEBUG (PooledDataSource.java:434) [main] org.apache.ibatis.datasource.pooled.PooledDataSource - Created connection 9190301.
+<2022-01-08 22:36:51,927> DEBUG (JdbcTransaction.java:101) [main] org.apache.ibatis.transaction.jdbc.JdbcTransaction - Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@8c3b9d]
+<2022-01-08 22:36:51,942> DEBUG (BaseJdbcLogger.java:137) [main] com.bjsxt.mapper.UsersMapper.selectUserById - ==>  Preparing: select * from users where userid=?
+<2022-01-08 22:36:51,974> DEBUG (BaseJdbcLogger.java:137) [main] com.bjsxt.mapper.UsersMapper.selectUserById - ==> Parameters: 2(Integer)
+<2022-01-08 22:36:52,005> DEBUG (BaseJdbcLogger.java:137) [main] com.bjsxt.mapper.UsersMapper.selectUserById - <==      Total: 1
+<2022-01-09 15:44:43,999> DEBUG (LogFactory.java:105) [main] org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+<2022-01-09 15:44:44,014> DEBUG (LogFactory.java:105) [main] org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+<2022-01-09 15:44:44,093> DEBUG (PooledDataSource.java:363) [main] org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+<2022-01-09 15:44:44,093> DEBUG (PooledDataSource.java:363) [main] org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+<2022-01-09 15:44:44,093> DEBUG (PooledDataSource.java:363) [main] org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+<2022-01-09 15:44:44,093> DEBUG (PooledDataSource.java:363) [main] org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+<2022-01-09 15:44:44,186> DEBUG (JdbcTransaction.java:137) [main] org.apache.ibatis.transaction.jdbc.JdbcTransaction - Opening JDBC Connection
+<2022-01-09 15:44:45,030> DEBUG (PooledDataSource.java:434) [main] org.apache.ibatis.datasource.pooled.PooledDataSource - Created connection 1146825051.
+<2022-01-09 15:44:45,030> DEBUG (JdbcTransaction.java:101) [main] org.apache.ibatis.transaction.jdbc.JdbcTransaction - Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@445b295b]
+<2022-01-09 15:44:45,030> DEBUG (BaseJdbcLogger.java:137) [main] com.bjsxt.mapper.UsersMapper.selectUserByNameAndSex - ==>  Preparing: select * from users where username=? and usersex=?
+<2022-01-09 15:44:45,061> DEBUG (BaseJdbcLogger.java:137) [main] com.bjsxt.mapper.UsersMapper.selectUserByNameAndSex - ==> Parameters: bjsxt(String), male(String)
+<2022-01-09 15:44:45,092> DEBUG (BaseJdbcLogger.java:137) [main] com.bjsxt.mapper.UsersMapper.selectUserByNameAndSex - <==      Total: 1
+<2022-01-09 15:44:45,092> DEBUG (JdbcTransaction.java:123) [main] org.apache.ibatis.transaction.jdbc.JdbcTransaction - Resetting autocommit to true on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@445b295b]
+<2022-01-09 15:44:45,092> DEBUG (JdbcTransaction.java:91) [main] org.apache.ibatis.transaction.jdbc.JdbcTransaction - Closing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@445b295b]
+<2022-01-09 15:44:45,092> DEBUG (PooledDataSource.java:391) [main] org.apache.ibatis.datasource.pooled.PooledDataSource - Returned connection 1146825051 to pool.

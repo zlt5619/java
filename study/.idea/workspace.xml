@@ -9,357 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5727cc4a-622f-4d7f-874d-d7063fda57b9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/servletdemo_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/servletdemo_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_12_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_12_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_12_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_12_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_enterprise_jakarta_enterprise_cdi_api_2_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_inject_jakarta_inject_api_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_2_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_ws_rs_jakarta_ws_rs_api_2_1_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_external_jakarta_inject_2_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_osgi_resource_locator_1_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_containers_jersey_container_servlet_2_34.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_containers_jersey_container_servlet_core_2_34.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_client_2_34.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_common_2_34.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_server_2_34.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_ext_jersey_entity_filtering_2_34.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_inject_jersey_cdi2_se_2_34.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_media_jersey_media_json_jackson_2_34.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_classfilewriter_jboss_classfilewriter_1_2_5_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_2_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_annotation_jboss_annotations_api_1_3_spec_2_0_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_el_jboss_el_api_3_0_spec_2_0_0_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_interceptor_jboss_interceptors_api_1_2_spec_2_0_0_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_weld_environment_weld_environment_common_3_1_8_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_weld_probe_weld_probe_core_3_1_8_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_weld_se_weld_se_core_3_1_8_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_weld_weld_api_3_1_SP4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_weld_weld_core_impl_3_1_8_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_weld_weld_spi_3_1_SP4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/HTML.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/img/liangchaowei.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/img/liudehua.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/img/liuyifei.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/img/photo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/img/zhouxingchi.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/img/zhuyin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/src/Audio.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/src/Form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/src/FrameSet.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/src/H5Form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/src/a.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/src/css/css01.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/src/css/css_selector.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/src/css/demo1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/src/demo01.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/src/div.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/src/drawpicture.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/src/iframe.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/src/jpg.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/src/structure.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/src/table.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IO/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IO/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IO/.idea/libraries/commons_io_2_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IO/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IO/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IO/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IO/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IO/IO.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IO/source/a.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IO/source/b.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IO/source/c.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IO/source/sxt.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IO/source/sxt.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IO/src/com/itbaizhan/IO/BufferedReader2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IO/src/com/itbaizhan/IO/ByteArrayStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IO/src/com/itbaizhan/IO/DataStreamTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IO/src/com/itbaizhan/IO/FileCopy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IO/src/com/itbaizhan/IO/FileInIo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IO/src/com/itbaizhan/IO/FileReaderDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IO/src/com/itbaizhan/IO/FileWriterDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IO/src/com/itbaizhan/IO/ObjectStreamTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IO/src/com/itbaizhan/IO/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IO/src/com/itbaizhan/IO/Test02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IO/src/com/itbaizhan/IO/TestApache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IO/src/com/itbaizhan/IO/TestBufferStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IO/src/com/itbaizhan/IO/TestFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IO/src/com/itbaizhan/IO/TestFileInputStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IO/src/com/itbaizhan/IO/TestInputStreamReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IO/src/com/itbaizhan/IO/TestPrintWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IO/src/com/itbaizhan/IO/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IP/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IP/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IP/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IP/IP.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IP/src/com/itbaizhan/IP/BasicSocketClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IP/src/com/itbaizhan/IP/BasicSocketServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IP/src/com/itbaizhan/IP/ChatRoomServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IP/src/com/itbaizhan/IP/ChatSocketClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IP/src/com/itbaizhan/IP/ChatSocketServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IP/src/com/itbaizhan/IP/EchoServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IP/src/com/itbaizhan/IP/OneWaySocketClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IP/src/com/itbaizhan/IP/OneWaySocketServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IP/src/com/itbaizhan/IP/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IP/src/com/itbaizhan/IP/TestInetSocket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IP/src/com/itbaizhan/IP/TestTCP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IP/src/com/itbaizhan/IP/TestURL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IP/src/com/itbaizhan/IP/TwoWaySocketClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IP/src/com/itbaizhan/IP/TwoWaySocketServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IP/src/com/itbaizhan/IP/UDPClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IP/src/com/itbaizhan/IP/UDPServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBC/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBC/.idea/libraries/c3p0_0_9_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBC/.idea/libraries/commons_dbcp2_2_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBC/.idea/libraries/commons_dbutils_1_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBC/.idea/libraries/druid_1_0_19.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBC/.idea/libraries/mchange_commons_java_0_2_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBC/.idea/libraries/mysql_connector_java_8_0_27.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBC/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBC/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBC/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBC/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBC/JDBC.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBC/jpg/liangchaowei.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBC/jpg/liudehua.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBC/jpg/liuyifei.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBC/jpg/photo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBC/jpg/zhouxingchi.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBC/jpg/zhuyin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBC/src/JDBCUtilDruid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBC/src/JDBCutil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBC/src/TestConnection01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBC/src/TestConnection02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBC/src/TestConnection03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBC/src/TestConnection04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBC/src/TestConnection05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBC/src/TestORM01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBC/src/TestPreparedStatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBC/src/TestPreparedStatement02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBC/src/TestPreparedStatement03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBC/src/TestPreparedStatement04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBC/src/TestResultSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBC/src/TestStatement01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBC/src/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBC/src/c3p0-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBC/src/com/baizhan/Blob/TestBlob.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBC/src/com/baizhan/Blob/TestReadBlob.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBC/src/com/baizhan/Dao/BaseDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBC/src/com/baizhan/Dao/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBC/src/com/baizhan/Dao/UserDAOImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBC/src/com/baizhan/Dao/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBC/src/com/baizhan/Pool/TestC3P0.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBC/src/com/baizhan/Pool/TestC3P0_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBC/src/com/baizhan/Pool/TestDBCP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBC/src/com/baizhan/Pool/TestDBCP02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBC/src/com/baizhan/Pool/TestDruid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBC/src/com/baizhan/Transaction/TestTransaction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBC/src/com/baizhan/Utils/MyHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBC/src/com/baizhan/Utils/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBC/src/com/baizhan/Utils/Test02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBC/src/com/baizhan/Utils/Test03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBC/src/com/baizhan/Utils/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBC/src/com/baizhan/account/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBC/src/com/baizhan/account/JDBCutil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBC/src/com/baizhan/account/Login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBC/src/com/baizhan/account/jdbc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBC/src/com/baizhan/fenye/MysqlPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBC/src/com/baizhan/fenye/Page.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBC/src/com/baizhan/insert/Insert_Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBC/src/com/baizhan/insert/Insert_Test02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBC/src/com/baizhan/insert/Insert_Test03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBC/src/dbcp.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBC/src/druid.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBC/src/jdbc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reflect/src/ReflectDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reflect/src/Test08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reflect/src/TestReflectDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Servelet/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Servelet/.idea/libraries/lib.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Servelet/.idea/libraries/servlet_api.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Servelet/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Servelet/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Servelet/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Servelet/Servelet.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Servelet/lib/JsoupXpath-0.3.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Servelet/lib/jsoup-1.11.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Servelet/src/com/baizhan/DTD/student.dtd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Servelet/src/com/baizhan/DTD/student.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Servelet/src/com/baizhan/HTML/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Servelet/src/com/baizhan/jsoup/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Servelet/src/com/baizhan/jsoup/Demo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Servelet/src/com/baizhan/schema/student.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Servelet/src/com/baizhan/schema/student.xsd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Servelet/src/com/baizhan/servlet/HelloServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Servelet/src/com/baizhan/servlet/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Servelet/src/com/baizhan/xml/demo.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Servelet/src/com/baizhan/xpath/demo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Servlet01/Servlet01.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thread/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thread/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thread/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thread/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thread/Thread.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thread/src/com/itbaizhan/Thread/JoinThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thread/src/com/itbaizhan/Thread/JoinThread02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thread/src/com/itbaizhan/Thread/PriorityTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thread/src/com/itbaizhan/Thread/SetName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thread/src/com/itbaizhan/Thread/SleepThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thread/src/com/itbaizhan/Thread/StopThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thread/src/com/itbaizhan/Thread/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thread/src/com/itbaizhan/Thread/Test02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thread/src/com/itbaizhan/Thread/Test03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thread/src/com/itbaizhan/Thread/TestDaemon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thread/src/com/itbaizhan/Thread/TestMode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thread/src/com/itbaizhan/Thread/TestSiSuo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thread/src/com/itbaizhan/Thread/TestSynchronized.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thread/src/com/itbaizhan/Thread/TestThisLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thread/src/com/itbaizhan/Thread/YieldThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/servletdemo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/study.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaoZhuangLei/src/com/itbaizhan/FIle/TestDiGui.java" beforeDir="false" afterPath="$PROJECT_DIR$/BaoZhuangLei/src/com/itbaizhan/FIle/TestDiGui.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaoZhuangLei/src/com/itbaizhan/FIle/TestFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/BaoZhuangLei/src/com/itbaizhan/FIle/TestFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaoZhuangLei/src/com/itbaizhan/MeiJu/TestEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/BaoZhuangLei/src/com/itbaizhan/MeiJu/TestEnum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaoZhuangLei/src/com/itbaizhan/date/TestCalender.java" beforeDir="false" afterPath="$PROJECT_DIR$/BaoZhuangLei/src/com/itbaizhan/date/TestCalender.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaoZhuangLei/src/com/itbaizhan/date/TestDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/BaoZhuangLei/src/com/itbaizhan/date/TestDate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaoZhuangLei/src/com/itbaizhan/date/TestDateFormat.java" beforeDir="false" afterPath="$PROJECT_DIR$/BaoZhuangLei/src/com/itbaizhan/date/TestDateFormat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaoZhuangLei/src/com/itbaizhan/string/TestString.java" beforeDir="false" afterPath="$PROJECT_DIR$/BaoZhuangLei/src/com/itbaizhan/string/TestString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaoZhuangLei/src/com/itbaizhan/string/TestString02.java" beforeDir="false" afterPath="$PROJECT_DIR$/BaoZhuangLei/src/com/itbaizhan/string/TestString02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaoZhuangLei/src/com/itbaizhan/string/TestString03.java" beforeDir="false" afterPath="$PROJECT_DIR$/BaoZhuangLei/src/com/itbaizhan/string/TestString03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaoZhuangLei/src/com/itbaizhanNum/MyInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/BaoZhuangLei/src/com/itbaizhanNum/MyInteger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaoZhuangLei/src/com/itbaizhanNum/TestInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/BaoZhuangLei/src/com/itbaizhanNum/TestInteger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaoZhuangLei/src/com/itbaizhanNum/TestZhuangxiang.java" beforeDir="false" afterPath="$PROJECT_DIR$/BaoZhuangLei/src/com/itbaizhanNum/TestZhuangxiang.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Contanier/src/com/itbaizhan/fanxing/Generic.java" beforeDir="false" afterPath="$PROJECT_DIR$/Contanier/src/com/itbaizhan/fanxing/Generic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Contanier/src/com/itbaizhan/fanxing/Generic1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Contanier/src/com/itbaizhan/fanxing/Generic1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Contanier/src/com/itbaizhan/fanxing/Igeneric.java" beforeDir="false" afterPath="$PROJECT_DIR$/Contanier/src/com/itbaizhan/fanxing/Igeneric.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Contanier/src/com/itbaizhan/fanxing/IgenericImp1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Contanier/src/com/itbaizhan/fanxing/IgenericImp1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Contanier/src/com/itbaizhan/fanxing/MethdoGeneric.java" beforeDir="false" afterPath="$PROJECT_DIR$/Contanier/src/com/itbaizhan/fanxing/MethdoGeneric.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Contanier/src/com/itbaizhan/fanxing/ShowMsg.java" beforeDir="false" afterPath="$PROJECT_DIR$/Contanier/src/com/itbaizhan/fanxing/ShowMsg.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Contanier/src/com/itbaizhan/fanxing/ShowMsg1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Contanier/src/com/itbaizhan/fanxing/ShowMsg1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Contanier/src/com/itbaizhan/fanxing/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/Contanier/src/com/itbaizhan/fanxing/Test01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Contanier/src/com/itbaizhan/fanxing/Test02.java" beforeDir="false" afterPath="$PROJECT_DIR$/Contanier/src/com/itbaizhan/fanxing/Test02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Contanier/src/com/itbaizhan/fanxing/Test03.java" beforeDir="false" afterPath="$PROJECT_DIR$/Contanier/src/com/itbaizhan/fanxing/Test03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Contanier/src/com/itbaizhan/fanxing/Test04.java" beforeDir="false" afterPath="$PROJECT_DIR$/Contanier/src/com/itbaizhan/fanxing/Test04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Contanier/src/com/itbaizhan/rongqi/CollectionsShuffleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Contanier/src/com/itbaizhan/rongqi/CollectionsShuffleTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Contanier/src/com/itbaizhan/rongqi/CollectionsSortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Contanier/src/com/itbaizhan/rongqi/CollectionsSortTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Contanier/src/com/itbaizhan/rongqi/TestArrayList01.java" beforeDir="false" afterPath="$PROJECT_DIR$/Contanier/src/com/itbaizhan/rongqi/TestArrayList01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Contanier/src/com/itbaizhan/rongqi/TestHashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/Contanier/src/com/itbaizhan/rongqi/TestHashSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Contanier/src/com/itbaizhan/rongqi/TestHashSet02.java" beforeDir="false" afterPath="$PROJECT_DIR$/Contanier/src/com/itbaizhan/rongqi/TestHashSet02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Contanier/src/com/itbaizhan/rongqi/TestLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/Contanier/src/com/itbaizhan/rongqi/TestLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Contanier/src/com/itbaizhan/rongqi/TestList01.java" beforeDir="false" afterPath="$PROJECT_DIR$/Contanier/src/com/itbaizhan/rongqi/TestList01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Contanier/src/com/itbaizhan/rongqi/TestListIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Contanier/src/com/itbaizhan/rongqi/TestListIterator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Contanier/src/com/itbaizhan/rongqi/TestMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/Contanier/src/com/itbaizhan/rongqi/TestMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Contanier/src/com/itbaizhan/rongqi/TestSetIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Contanier/src/com/itbaizhan/rongqi/TestSetIterator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Contanier/src/com/itbaizhan/rongqi/TestStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/Contanier/src/com/itbaizhan/rongqi/TestStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Contanier/src/com/itbaizhan/rongqi/TestStack02.java" beforeDir="false" afterPath="$PROJECT_DIR$/Contanier/src/com/itbaizhan/rongqi/TestStack02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Contanier/src/com/itbaizhan/rongqi/TestTreeSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/Contanier/src/com/itbaizhan/rongqi/TestTreeSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Contanier/src/com/itbaizhan/rongqi/TestVector.java" beforeDir="false" afterPath="$PROJECT_DIR$/Contanier/src/com/itbaizhan/rongqi/TestVector.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exception/src/com/itbaizhan/exception/IllegalAgeException.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exception/src/com/itbaizhan/exception/IllegalAgeException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exception/src/com/itbaizhan/exception/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exception/src/com/itbaizhan/exception/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exception/src/com/itbaizhan/exception/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exception/src/com/itbaizhan/exception/Test01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exception/src/com/itbaizhan/exception/TestBreakPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exception/src/com/itbaizhan/exception/TestBreakPoint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exception/src/com/itbaizhan/exception/TestThrow01.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exception/src/com/itbaizhan/exception/TestThrow01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exception/src/com/itbaizhan/exception/TestThrow2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exception/src/com/itbaizhan/exception/TestThrow2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exception/src/com/itbaizhan/exception/TestTryWithResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exception/src/com/itbaizhan/exception/TestTryWithResource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exception/src/com/itbaizhan/exception/ZeroException.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exception/src/com/itbaizhan/exception/ZeroException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lambda/src/com/itbaizhan/Test02.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda/src/com/itbaizhan/Test02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lambda/src/com/itbaizhan/Test03.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda/src/com/itbaizhan/Test03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lambda/src/com/itbaizhan/TestCoolection.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda/src/com/itbaizhan/TestCoolection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lambda/src/com/itbaizhan/TestThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda/src/com/itbaizhan/TestThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Object/oop/src/com/itbaizhan/chouxiang/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Object/oop/src/com/itbaizhan/chouxiang/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Object/oop/src/com/itbaizhan/duotai/TestDuoTai.java" beforeDir="false" afterPath="$PROJECT_DIR$/Object/oop/src/com/itbaizhan/duotai/TestDuoTai.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Object/oop/src/com/itbaizhan/fengzhuang/TestFengzhaung01.java" beforeDir="false" afterPath="$PROJECT_DIR$/Object/oop/src/com/itbaizhan/fengzhuang/TestFengzhaung01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Object/oop/src/com/itbaizhan/jicheng/Test02.java" beforeDir="false" afterPath="$PROJECT_DIR$/Object/oop/src/com/itbaizhan/jicheng/Test02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Object/oop/src/com/itbaizhan/jicheng/TestComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/Object/oop/src/com/itbaizhan/jicheng/TestComponent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Object/oop/src/com/itbaizhan/jicheng/TextExtends.java" beforeDir="false" afterPath="$PROJECT_DIR$/Object/oop/src/com/itbaizhan/jicheng/TextExtends.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Object/oop/src/com/itbaizhan/jiekou/MultipleInterfaceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Object/oop/src/com/itbaizhan/jiekou/MultipleInterfaceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Object/oop/src/com/itbaizhan/jiekou/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Object/oop/src/com/itbaizhan/jiekou/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Object/oop/src/com/itbaizhan/jiekou/TestDefault.java" beforeDir="false" afterPath="$PROJECT_DIR$/Object/oop/src/com/itbaizhan/jiekou/TestDefault.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Object/oop/src/com/itbaizhan/jiekou/statictest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Object/oop/src/com/itbaizhan/jiekou/statictest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Object/oop/src/com/itbaizhan/jiekou/volant.java" beforeDir="false" afterPath="$PROJECT_DIR$/Object/oop/src/com/itbaizhan/jiekou/volant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Object/oop/src/com/itbaizhan/neibulei/Outer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Object/oop/src/com/itbaizhan/neibulei/Outer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Object/oop/src/com/itbaizhan/neibulei/TestOuter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Object/oop/src/com/itbaizhan/neibulei/TestOuter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Object/oop/src/com/itbaizhan/oop/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/Object/oop/src/com/itbaizhan/oop/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Object/oop/src/com/itbaizhan/shuzu/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/Object/oop/src/com/itbaizhan/shuzu/Test01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Object/oop/src/com/itbaizhan/shuzu/Test02.java" beforeDir="false" afterPath="$PROJECT_DIR$/Object/oop/src/com/itbaizhan/shuzu/Test02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Object/oop/src/com/itbaizhan/shuzu/Test03.java" beforeDir="false" afterPath="$PROJECT_DIR$/Object/oop/src/com/itbaizhan/shuzu/Test03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Object/oop/src/com/itbaizhan/shuzu/TestArray01.java" beforeDir="false" afterPath="$PROJECT_DIR$/Object/oop/src/com/itbaizhan/shuzu/TestArray01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Object/oop/src/com/itbaizhan/shuzu/TestArrayCopy.java" beforeDir="false" afterPath="$PROJECT_DIR$/Object/oop/src/com/itbaizhan/shuzu/TestArrayCopy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Object/oop/src/com/itbaizhan/shuzu/TestArrayFill.java" beforeDir="false" afterPath="$PROJECT_DIR$/Object/oop/src/com/itbaizhan/shuzu/TestArrayFill.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Object/oop/src/com/itbaizhan/shuzu/TestArrayOutput.java" beforeDir="false" afterPath="$PROJECT_DIR$/Object/oop/src/com/itbaizhan/shuzu/TestArrayOutput.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Object/oop/src/com/itbaizhan/shuzu/TestArraySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/Object/oop/src/com/itbaizhan/shuzu/TestArraySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Object/oop/src/com/itbaizhan/shuzu/TestArraySort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Object/oop/src/com/itbaizhan/shuzu/TestArraySort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Object/oop/src/com/itbaizhan/shuzu/TestBianrySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/Object/oop/src/com/itbaizhan/shuzu/TestBianrySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Object/oop/src/com/itbaizhan/shuzu/TestCompare.java" beforeDir="false" afterPath="$PROJECT_DIR$/Object/oop/src/com/itbaizhan/shuzu/TestCompare.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Object/oop/src/com/itbaizhan/shuzu/TestErWeiShuZuBiaoGe.java" beforeDir="false" afterPath="$PROJECT_DIR$/Object/oop/src/com/itbaizhan/shuzu/TestErWeiShuZuBiaoGe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Object/oop/src/com/itbaizhan/shuzu/TestErWeiShuzu.java" beforeDir="false" afterPath="$PROJECT_DIR$/Object/oop/src/com/itbaizhan/shuzu/TestErWeiShuzu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Object/oop/src/com/itbaizhan/shuzu/TestJavaBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/Object/oop/src/com/itbaizhan/shuzu/TestJavaBean.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Object/oop/src/com/itbaizhan/shuzu/TestMaoPaoSuanFa.java" beforeDir="false" afterPath="$PROJECT_DIR$/Object/oop/src/com/itbaizhan/shuzu/TestMaoPaoSuanFa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Object/oop/src/com/itbaizhan/string/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/Object/oop/src/com/itbaizhan/string/Test01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Object/oop/src/com/itbaizhan/test/TestEquals.java" beforeDir="false" afterPath="$PROJECT_DIR$/Object/oop/src/com/itbaizhan/test/TestEquals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Object/oop/src/com/itbaizhan/test/TestObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/Object/oop/src/com/itbaizhan/test/TestObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Object/oop/src/com/itbaizhan/test/TestSuper.java" beforeDir="false" afterPath="$PROJECT_DIR$/Object/oop/src/com/itbaizhan/test/TestSuper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Object/oop/src/com/itbaizhan/test/TestSuper2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Object/oop/src/com/itbaizhan/test/TestSuper2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Object/src/SxtStu.java" beforeDir="false" afterPath="$PROJECT_DIR$/Object/src/SxtStu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Object/src/TestOverload.java" beforeDir="false" afterPath="$PROJECT_DIR$/Object/src/TestOverload.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Object/src/TestPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/Object/src/TestPoint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Object/src/TestStatic.java" beforeDir="false" afterPath="$PROJECT_DIR$/Object/src/TestStatic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Object/src/TestStatic2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Object/src/TestStatic2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Object/src/TestThis.java" beforeDir="false" afterPath="$PROJECT_DIR$/Object/src/TestThis.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Object_Method/src/TestDigui.java" beforeDir="false" afterPath="$PROJECT_DIR$/Object_Method/src/TestDigui.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Object_Method/src/TestDigui2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Object_Method/src/TestDigui2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Object_Method/src/TestMethod1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Object_Method/src/TestMethod1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Object_Method/src/TestOverLoad.java" beforeDir="false" afterPath="$PROJECT_DIR$/Object_Method/src/TestOverLoad.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PhoneBook/src/com/bjsxt/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/PhoneBook/src/com/bjsxt/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PhoneBook/src/com/bjsxt/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/PhoneBook/src/com/bjsxt/Menu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PhoneBook/src/com/bjsxt/Operate.java" beforeDir="false" afterPath="$PROJECT_DIR$/PhoneBook/src/com/bjsxt/Operate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PhoneBook/src/com/bjsxt/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/PhoneBook/src/com/bjsxt/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PhoneBook/src/com/bjsxt/TelNoteRegex.java" beforeDir="false" afterPath="$PROJECT_DIR$/PhoneBook/src/com/bjsxt/TelNoteRegex.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reflect/src/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/Reflect/src/Test01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reflect/src/Test02.java" beforeDir="false" afterPath="$PROJECT_DIR$/Reflect/src/Test02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reflect/src/Test04.java" beforeDir="false" afterPath="$PROJECT_DIR$/Reflect/src/Test04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reflect/src/Test05.java" beforeDir="false" afterPath="$PROJECT_DIR$/Reflect/src/Test05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reflect/src/Test06.java" beforeDir="false" afterPath="$PROJECT_DIR$/Reflect/src/Test06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reflect/src/Test07.java" beforeDir="false" afterPath="$PROJECT_DIR$/Reflect/src/Test07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/control_sentence_study/src/SwitchTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/control_sentence_study/src/SwitchTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/control_sentence_study/src/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/control_sentence_study/src/Test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/control_sentence_study/src/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/control_sentence_study/src/Test2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loop/src/AnuualSalaryDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/loop/src/AnuualSalaryDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loop/src/TestBreak.java" beforeDir="false" afterPath="$PROJECT_DIR$/loop/src/TestBreak.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loop/src/TestContinue.java" beforeDir="false" afterPath="$PROJECT_DIR$/loop/src/TestContinue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loop/src/TestFor.java" beforeDir="false" afterPath="$PROJECT_DIR$/loop/src/TestFor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loop/src/TestFor2.java" beforeDir="false" afterPath="$PROJECT_DIR$/loop/src/TestFor2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loop/src/TestFor3.java" beforeDir="false" afterPath="$PROJECT_DIR$/loop/src/TestFor3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loop/src/TestFor4.java" beforeDir="false" afterPath="$PROJECT_DIR$/loop/src/TestFor4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loop/src/TestFor5.java" beforeDir="false" afterPath="$PROJECT_DIR$/loop/src/TestFor5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loop/src/TestWhile1.java" beforeDir="false" afterPath="$PROJECT_DIR$/loop/src/TestWhile1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loop/src/TestWhile2.java" beforeDir="false" afterPath="$PROJECT_DIR$/loop/src/TestWhile2.java" afterDir="false" />
-    </list>
+    <list default="true" id="5727cc4a-622f-4d7f-874d-d7063fda57b9" name="Changes" comment="add java file" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -367,6 +17,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="InvalidFacetManager">
+    <ignored-facets>
+      <facet id="servletdemo/invalid/Web" />
+    </ignored-facets>
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -390,6 +45,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="Tomcat 9.0.34" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.34" ALTERNATIVE_JRE_ENABLED="false">
@@ -441,6 +97,14 @@
       <updated>1640499525075</updated>
       <workItem from="1640499526309" duration="849000" />
     </task>
+    <task id="LOCAL-00001" summary="add java file">
+      <created>1640603960744</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1640603960745</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -456,5 +120,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add java file" />
+    <option name="LAST_COMMIT_MESSAGE" value="add java file" />
   </component>
 </project>
